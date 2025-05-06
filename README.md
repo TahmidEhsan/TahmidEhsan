@@ -31,8 +31,6 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/></a>
 </p>
 
-*Note: VHDL and Verilog logos are not officially hosted — consider adding custom SVGs or PNGs if needed.*
-
 ---
 
 ## 🧰 Tools & Technologies
@@ -43,7 +41,6 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/></a>
-  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Google_Data_Studio_Logo.png" width="40" alt="Looker Studio"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://seeklogo.com/images/P/power-bi-logo-F8B272E5D5-seeklogo.com.png" width="40" alt="Power BI"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/></a>
 </p>
@@ -54,7 +51,7 @@
 
 - 📧 Email: [tahmid.ehsan@torontomu.ca](mailto:tahmid.ehsan@torontomu.ca)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tahmid-ehsan/)  
-- 🌐 [GitHub Portfolio](https://github.com/tehsan01)
+- 🌐 [GitHub Portfolio](Coming Soon!)
 
 ---
 
