@@ -1,49 +1,49 @@
 # 👋 Hi, my name is Tahmid!
 
-🎓 Computer Engineering student at **Toronto Metropolitan University**  
+🎓 I'm a **Computer Engineering student** at **Toronto Metropolitan University**  
 💼 Currently interning at **BigPod Limited**  
-⚙️ Passionate about **automating repetitive tasks**, optimizing workflows, and building cool tech  
-🚀 Always learning & exploring – from hardware integration to backend development  
-🧠 I believe in working smarter and using every tool at my disposal to make life easier  
-📊 Recently diving into **data analysis**, **networking**, and **systems-level programming**  
+🛠️ I'm working on **automating my less important tasks** to boost productivity  
+🧠 Interested in blending **software and hardware**, and building things that make life easier  
+📚 Always learning – whether it's low-level logic or high-level data insights  
 
 ---
 
-## 🔧 What I'm Working On
+## 🚧 What I’m Working On
 
-- Automating my day-to-day "less important" tasks using Python and Bash scripts  
-- Building personal projects to enhance productivity (AI-powered tools, CLI utilities)  
-- Contributing to my internship team at BigPod with smart infrastructure solutions  
-
----
-
-## 🛠️ Tools & Tech I Use
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>
+- Python-based tools to handle repetitive workflows  
+- Building data pipelines and internal dashboards  
+- Learning better systems design and AI integration for automation  
 
 ---
 
-## 📫 Let's Connect!
+## 💻 Languages I Use
 
-- 📧 Email: tahmid.ehsan@torontomu.ca  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/tahmide/))  
-- 🌐 [Portfolio (Coming Soon!)]()
+- **HTML**, **CSS**, **JavaScript**  
+- **Python**, **C**, **C++**, **Java**, **C#**  
+- **R**, **VHDL**, **Verilog**, **MATLAB**
 
 ---
 
-## 📷 Life at a Glance
+## 🧰 Tools & Technologies
+
+- **React**, **Node.js**, **MongoDB**  
+- **Pandas**, **Git**, **Looker Studio**, **Power BI**, **Figma**
+
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: [tahmid.ehsan@torontomu.ca](mailto:tahmid.ehsan@torontomu.ca)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tahmid-ehsan/)  
+- 🌐 [GitHub Portfolio](https://github.com/tehsan01)
+
+---
+
+## 📷 Life in Motion
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300" alt="Coding"/>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Automation"/>
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300" alt="Coding in progress"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Automation at work"/>
 </p>
 
 ---
