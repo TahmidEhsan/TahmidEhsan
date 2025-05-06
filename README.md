@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Tahmid!
+# 👋 Hi there, my name is Tahmid!
 
 🎓 I'm a **Computer Engineering student** at **Toronto Metropolitan University**  
 💼 Currently interning at **BigPod Limited**  
