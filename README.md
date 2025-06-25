@@ -1,7 +1,7 @@
 # 👋 Hi there, my name is Tahmid!
  
  🎓 I'm a **Computer Engineering student** at **Toronto Metropolitan University**  
- 💼 Currently interning at **BigPod Limited**  
+ 💼 Last interned at **BigPod Limited**  
  🛠️ I'm working on **automating my less important tasks** to boost productivity  
  🧠 Interested in blending **software and hardware**, and building things that make life easier  
  📚 Always learning – whether it's low-level logic or high-level data insights  
