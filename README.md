@@ -51,7 +51,7 @@
  
  - 📧 Email: [tahmid.ehsan@torontomu.ca](mailto:tahmid.ehsan@torontomu.ca)  
  - 💼 [LinkedIn](https://www.linkedin.com/in/tahmid-ehsan/)  
- - 🌐 [GitHub Portfolio](Coming Soon!)
+ - 🌐 Portfolio coming soon!
  
  ---
  
