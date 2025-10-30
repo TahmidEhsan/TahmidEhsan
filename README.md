@@ -49,7 +49,7 @@
  
  ## 🔗 Connect With Me
  
- - 📧 Email: [tahmid.ehsan@torontomu.ca](mailto:tahmid.ehsan@torontomu.ca)  
+ - 📧 [Email](mailto:tahmid.ehsan@torontomu.ca)  
  - 💼 [LinkedIn](https://www.linkedin.com/in/tahmid-ehsan/)  
  - 🌐 Portfolio coming soon!
  
